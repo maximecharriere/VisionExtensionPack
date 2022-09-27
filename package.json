@@ -1,0 +1,26 @@
+{
+    "name": "vision-pack",
+    "publisher": "heig-vd",
+    "author": {
+        "name": "Maxime Charrière"
+    },
+    "icon": "img/heig-vd-2020-slim.png",
+    "homepage": "http://iai-vision.heig-vd.ch/",
+    "displayName": "Vision Extension Pack",
+    "description": "Mandatory and usefull extensions to code with Python/Jupyter",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "CoenraadS.bracket-pair-colorizer",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
